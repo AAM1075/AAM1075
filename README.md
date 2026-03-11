@@ -1,7 +1,7 @@
 # Hello, I'm Andrew  
 
 I'm a computer science student, and I'm passionate about game development, operating systems, and electronics.  
-I can be reached via the email on my profile, or on [Discord](https://discordapp.com/users/702231283874660412).
+I can be reached via the email on my profile.
 
 <br/>
 
@@ -12,5 +12,5 @@ C#, Python, Arduino, Godot, Unity, Git, Windows, Linux
 <br/>
 
 ## Current Projects
-- **[BorealOS](https://github.com/MEMESCOEP/BorealOS):** Hobbyist OS for learning i686 OS development.  
-- **[PicoDraw](https://github.com/MEMESCOEP/PicoDraw):** VGA/HDMI graphics library for Raspberry Pi Pico.
+- **[BorealOS](https://github.com/AAM1075/BorealOS):** Hobbyist OS for learning multi-arch OS development.  
+- **[PicoDraw](https://github.com/AAM1075/PicoDraw):** VGA/HDMI graphics library for Raspberry Pi Pico.
