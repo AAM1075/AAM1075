@@ -12,6 +12,5 @@ C#, Python, Arduino, Godot, Unity, Git, Windows, Linux
 <br/>
 
 ## Current Projects
-- **[BorealOS](https://github.com/AAM1075/BorealOS):** Hobbyist OS for learning multi-arch OS development.
-- **[iota-ups-linux](https://github.com/AAM1075/iota-ups-linux):** A Linux kernel module that exposes the LattePanda IOTA's UPS module as a standard power_supply device for improved battery monitoring.
-- **[PicoDraw](https://github.com/AAM1075/PicoDraw):** VGA/HDMI graphics library for Raspberry Pi Pico.
+- **[BorealOS](https://github.com/AAM1075/BorealOS):** Hobbyist OS for learning x64 OS development.
+- **[BorealOS](https://github.com/AAM1075/PlutoDX):** 486DX SoM based minicomputer for Windows 9x and DOS.
